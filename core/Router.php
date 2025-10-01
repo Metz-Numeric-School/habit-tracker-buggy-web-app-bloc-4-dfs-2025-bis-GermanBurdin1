@@ -11,7 +11,7 @@ final class Router
     public function __construct($routes)
     {
         $this->routes = $routes;
-
+				
         // Match url
         $uri = $_SERVER['REQUEST_URI'];
         $this->uri = parse_url($uri, PHP_URL_PATH);

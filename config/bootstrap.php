@@ -13,6 +13,7 @@ $projectDir = realpath(__DIR__ . '/../');
 $envFileLocal = $projectDir . '/.env.local';
 $envFile = file_exists($envFileLocal) ? '.env.local' : '.env';
 
+
 // Charger Dotenv
 $dotenv = Dotenv\Dotenv::createImmutable($projectDir, $envFile);
 $dotenv->load();
