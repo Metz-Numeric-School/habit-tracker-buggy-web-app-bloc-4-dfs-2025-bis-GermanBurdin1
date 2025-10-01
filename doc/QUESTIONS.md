@@ -4,6 +4,15 @@ Répondez ici aux questions théoriques en détaillant un maxium vos réponses :
 
 1) Expliquer la procédure pour réserver un nom de domaine chez OVH avec des captures d'écran (arrêtez-vous au paiement) :
 
+2. Comment faire pour qu'un nom de domaine pointe vers une adresse IP spécifique ?
+3. Comment mettre en place un certificat SSL ?
+
+# Questions
+
+Répondez ici aux questions théoriques en détaillant un maxium vos réponses :
+
+1) Expliquer la procédure pour réserver un nom de domaine chez OVH avec des captures d'écran (arrêtez-vous au paiement) :
+
 1. je vais sur **ovhcloud.com → Domains**.
 2. je tape nom dans la barre de recherche, choisis l’extension (.fr, .com, …), vérifie la disponibilité, puis **Ajouter au panier**.
 3. Dans le panier, choisis **durée 1 an** (classique pour commencer). Laisse la **protection WHOIS** activé si proposé par défaut.
